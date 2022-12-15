@@ -1,5 +1,5 @@
-# Avaliação 01 de POO
-Minha resolução da primeira avaliação de POO.
+# Questões de POO 01
+Minha resolução de questões utilizando o paradigma de POO.
 
 ## Questão 1:
 Escreva um programa em Python para calcular o tempo de corrida de uma pessoa. O programa deve solicitar ao usuário os valores de hora, minuto e segundo de início da corrida; 
